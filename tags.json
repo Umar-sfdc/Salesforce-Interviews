@@ -1,0 +1,42 @@
+[
+  {
+    "id": "Q001",
+    "title": "OWD vs Sharing Rules",
+    "topic": "Admin",
+    "subtopic": "Security & Sharing",
+    "type": "Theory",
+    "difficulty": "Easy",
+    "file": "admin/theory/Q001-owd-vs-sharing-rules.md",
+    "tags": ["owd", "sharing", "security", "visibility"]
+  },
+  {
+    "id": "Q002",
+    "title": "Profiles vs Permission Sets",
+    "topic": "Admin",
+    "subtopic": "Security & Access",
+    "type": "Theory",
+    "difficulty": "Easy",
+    "file": "admin/theory/Q002-profiles-vs-permission-sets.md",
+    "tags": ["profiles", "permission sets", "access control"]
+  },
+  {
+    "id": "Q101",
+    "title": "Bulkify Opportunity Trigger",
+    "topic": "Apex",
+    "subtopic": "Triggers",
+    "type": "Scenario",
+    "difficulty": "Intermediate",
+    "file": "apex/scenario/Q101-bulkify-opportunity-trigger.md",
+    "tags": ["apex", "triggers", "bulkification", "governor limits"]
+  },
+  {
+    "id": "Q201",
+    "title": "LWC Search Component using @wire",
+    "topic": "LWC",
+    "subtopic": "Data & Wire",
+    "type": "Code",
+    "difficulty": "Intermediate",
+    "file": "lwc/code/Q201-search-component/question.md",
+    "tags": ["lwc", "wire", "apex", "search"]
+  }
+]
